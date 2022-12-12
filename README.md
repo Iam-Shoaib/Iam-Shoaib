@@ -66,7 +66,7 @@ Here are a few things I've picked up along my learning journey.
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![RemixIDE](https://img.shields.io/badge/-remix%20IDE-black?style=for-the-badge&logo=remix&logoColor=white)
-![]() ![]() ![]()
+![sublime](https://camo.githubusercontent.com/b7603157c0778e9255eb412fe2ad216ae67e2ea860e015d60d4dcda078f7fd5f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5375626c696d652b5465787426636f6c6f723d323232323232266c6f676f3d5375626c696d652b54657874266c6f676f436f6c6f723d464639383030266c6162656c3d) ![]() ![]()
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
