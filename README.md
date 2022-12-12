@@ -23,8 +23,8 @@ Here are a few things I've picked up along my learning journey.
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![]() ![]() ![]()
 
-![MochaJS](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![ChaiJS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![mailchimp](https://camo.githubusercontent.com/23450390e15331d78a4f7d3a4789afb1d629aa174ee93ae02fd174cd7463f80e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d61696c4368696d7026636f6c6f723d323232323232266c6f676f3d4d61696c4368696d70266c6f676f436f6c6f723d464645303142266c6162656c3d)
+![mailgun](https://camo.githubusercontent.com/8054fd4320a1350473a76a4850b1959d6a80ab4c7cf3d646dea95b82647dd02a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d61696c67756e26636f6c6f723d463036423636266c6f676f3d4d61696c67756e266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![]() ![]()
 
 ![elememtor](https://camo.githubusercontent.com/07a0d7e25097e9c2a5977fb5c0f438f21ed5109fc34014b1aa2688715a47e377/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c656d656e746f7226636f6c6f723d393230303342266c6f676f3d456c656d656e746f72266c6f676f436f6c6f723d464646464646266c6162656c3d)
