@@ -28,7 +28,9 @@ Here are a few things I've picked up along my learning journey.
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![]()
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![]() ![]() ![]()
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Digitalocean](https://camo.githubusercontent.com/2d68745f69e68f15ae62797ea7a4dceb639d8ddebc9060156c72b4c6dbf1075c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4469676974616c4f6365616e26636f6c6f723d303038304646266c6f676f3d4469676974616c4f6365616e266c6f676f436f6c6f723d464646464646266c6162656c3d) ![]() ![]()
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
