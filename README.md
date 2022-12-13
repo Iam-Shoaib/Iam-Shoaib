@@ -53,7 +53,8 @@ Here are a few things I've picked up along my learning journey.
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white) ![]() ![]()
+![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white) 
+![]() ![]()
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Asana](https://camo.githubusercontent.com/58b1255c8a1b92202bd555d484510c5181c122380d7c5f1f48b343f6b2abf96e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4173616e6126636f6c6f723d323733333437266c6f676f3d4173616e61266c6f676f436f6c6f723d464646464646266c6162656c3d)
