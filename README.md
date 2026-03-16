@@ -73,9 +73,9 @@ Here are a few things I've picked up along my learning journey.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-## Muhammad Shoaib's Github Stats
-<span> ![Shoaib's github stats](https://github-readme-stats.vercel.app/api?username=Iam-Shoaib&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Shoaib&theme=tokyonight)</span>
+
+<!-- <span> ![Shoaib's github stats](https://github-readme-stats.vercel.app/api?username=Iam-Shoaib&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true) </span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Shoaib&theme=tokyonight)</span> -->
 
 
 ## 📫 Get in touch
