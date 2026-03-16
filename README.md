@@ -74,7 +74,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## Muhammad Shoaib's Github Stats
-<span> ![Shoaib's github stats](https://github-readme-stats.vercel.app/api?username=Iam-Shoaib&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Shoaib's github stats](https://github-readme-stats.vercel.app/api?username=Iam-Shoaib&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Shoaib&theme=tokyonight)</span>
 
 
